@@ -72,6 +72,7 @@
 #define HAS_RFNATIVE
 #define HAS_ZWAVE
 #define HAS_MBUS
+#define LACROSSE_HMS_EMU
 
 #define _433MHZ
 
