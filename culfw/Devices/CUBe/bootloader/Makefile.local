@@ -1,0 +1,5 @@
+ARMBASE = /usr/lib/arm-none-eabi
+
+INCLUDEPATH = $(ARMBASE)/include
+LIBPATH = $(ARMBASE)/lib
+TOOLPREFIX = arm-none-eabi-
