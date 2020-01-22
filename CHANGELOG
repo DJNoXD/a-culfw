@@ -1,5 +1,20 @@
 ## Changelog:
 
+#### 1.26.08
+- MapleCUN: Fix serial2net
+
+#### 1.26.07
+- MapleCUN/CUBe: MSC bootloader
+- CUBe: Bugfix HW autodetect
+
+#### 1.26.06
+- MapleCUN/CUBe: Bugfix repeated messages filter
+- MapleCUN/CUBe: Autodetect onewire on any CC port
+- MapleCUN: Changed to bus powered USB configuration descriptor
+
+#### 1.26.05
+- MapleCUN: Fix CDC
+
 #### 1.26.04
 - CUBe: added HMS Device Emulation for LaCrosse
 

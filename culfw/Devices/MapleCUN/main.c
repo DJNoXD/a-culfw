@@ -173,7 +173,6 @@ void Error_Handler(void)
 //         Callbacks re-implementation
 //------------------------------------------------------------------------------
 
-
 //------------------------------------------------------------------------------
 /// Callback invoked when data has been received on the USB.
 //------------------------------------------------------------------------------
@@ -573,6 +572,7 @@ int main(void)
     #if CDC_COUNT > 1
       cdc_uart_task();
     #endif
+
 
     #ifdef HAS_WIZNET
     #ifdef USE_HW_AUTODETECT
