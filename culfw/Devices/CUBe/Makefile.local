@@ -1,4 +1,4 @@
-ARMBASE = /usr/lib/arm-none-eabi
+ARMBASE = /usr/lib/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi
 
 INCLUDEPATH = $(ARMBASE)/include
 LIBPATH = $(ARMBASE)/lib
