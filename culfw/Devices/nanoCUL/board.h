@@ -126,7 +126,8 @@ extern const uint8_t mark433_pin;
 //#  define HAS_HOERMANN
 //#  define HAS_HOERMANN_SEND
 #  define HAS_HMS
-#  define OFF_LACROSSE_HMS_EMU          // if you like HMS emulation for LaCrosse temp devices
+#  define LACROSSE_HMS_EMU
+//#  define OFF_LACROSSE_HMS_EMU          // if you like HMS emulation for LaCrosse temp devices
 
 //#define HAS_SOMFY_RTS
 //#define HAS_FHT_80b                     // PROGMEM: 1374b, RAM: 90b
